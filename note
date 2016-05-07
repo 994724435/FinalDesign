@@ -1,0 +1,51 @@
+基于thinkphp项目实战：
+	商城网站
+	
+	后台搭起来-》后台管理员
+	amdin.php->基于后台的入口
+		
+	前台
+	
+
+数据结构：
+	后台：
+	1、用户注册：
+		p_admin
+		id,name,pwd,true_name,email,sex,time
+		
+	前台：
+	1、商品表（books）
+		p_product
+		id,name,auth,cbs（出版社）,ISBN,cb_time(出版时间),cb_num(出版次数),
+		page_num(页码),zhz(装帧：平装，正装，斜装，胶装),price（市场价）,jd_price（京东价）,
+		type1Id（分类1）,type2Id(分类2)，big_img，small_img(封面图)
+		content,descript,status(上架/下架),addtime(添加时间)，uptime（更新时间）
+	2、书的类别表
+		p_type
+		id,name,fid,addtime,uptime
+		
+		
+		
+		
+作业：
+	1、今天login，reg，main，写一遍；把列表的分页你们下去补上
+		
+		
+	ipad.html
+	initCart.html
+	login.html
+	/myCart.html
+	editOrderInfo.html
+	success.html
+	register.html
+	支付
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

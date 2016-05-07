@@ -1,0 +1,30 @@
+[ 2016-05-07T17:33:58+08:00 ] 0.0.0.0 /project/admin.php/User/main
+ERR: 非法操作:main
+
+[ 2016-05-07T17:34:04+08:00 ] 0.0.0.0 /project/admin.php/User/main
+ERR: 非法操作:main
+
+[ 2016-05-07T17:34:47+08:00 ] 0.0.0.0 /project/admin.php/User/booksList
+ERR: 非法操作:booksList
+
+[ 2016-05-07T17:35:17+08:00 ] 0.0.0.0 /project/admin.php/User/booksList
+ERR: 模板不存在[./admin/Tpl/User/booksList.html]
+
+[ 2016-05-07T17:35:24+08:00 ] 0.0.0.0 /project/admin.php/User/main
+ERR: 模板不存在[./admin/Tpl/User/main.html]
+
+[ 2016-05-07T17:36:10+08:00 ] 0.0.0.0 /project/admin.php/
+ERR: 无法加载模块:Index
+
+[ 2016-05-07T17:36:29+08:00 ] 0.0.0.0 /project/admin.php/
+ERR: 无法加载模块:Index
+
+[ 2016-05-07T17:36:56+08:00 ] 0.0.0.0 /project/admin.php/admin/admin/Login
+ERR: 无法加载模块:admin
+
+[ 2016-05-07T17:37:06+08:00 ] 0.0.0.0 /project/admin.php/admin/
+ERR: 无法加载模块:admin
+
+[ 2016-05-07T17:37:36+08:00 ] 0.0.0.0 /project/admin.php/admin/main
+ERR: 无法加载模块:admin
+

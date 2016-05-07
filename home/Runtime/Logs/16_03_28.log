@@ -1,0 +1,141 @@
+[ 2016-03-28T22:13:34+08:00 ] 0.0.0.0 /index.php/Index/AllList
+ERR: Unknown database 'zichang'
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap-wysihtml5-0.0.2.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap-wysihtml5-0.0.2.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:32+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap-wysihtml5-0.0.2.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:14:49+08:00 ] 0.0.0.0 /index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:15:03+08:00 ] 0.0.0.0 /index.php/Admin
+ERR: 无法加载模块:Admin
+
+[ 2016-03-28T22:15:25+08:00 ] 0.0.0.0 /project/admin.php/login/login
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:24:56+08:00 ] 0.0.0.0 /project/Public/admin/css/font-awesome.css
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:24:56+08:00 ] 0.0.0.0 /project/Public/admin/js/bootstrap.min.js
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:24:56+08:00 ] 0.0.0.0 /project/Public/admin/css/style.css
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:24:56+08:00 ] 0.0.0.0 /project/Public/admin/js/jquery.min.js
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:24:56+08:00 ] 0.0.0.0 /project/Public/admin/css/bootstrap.min.css
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:25:18+08:00 ] 0.0.0.0 /project/Public/admin/css/style.css
+ERR: 无法加载模块:project
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/bootstrap-wysihtml5-0.0.2.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2016-03-28T22:25:52+08:00 ] 0.0.0.0 /project/index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+

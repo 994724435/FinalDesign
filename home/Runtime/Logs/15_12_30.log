@@ -1,0 +1,24 @@
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/bootstrap.min.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/theme.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/wysihtml5-0.3.0.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/bootstrap-wysihtml5-0.0.2.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/bootstrap.datepicker.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/jquery.uniform.min.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:27:32+08:00 ] 127.0.0.1 /project/index.php/Index/js/select2.min.js
+ERR: 非法操作:js
+
+[ 2015-12-30T11:40:21+08:00 ] 127.0.0.1 /project/index.php/Index/Public/Uploads/s/s1_568350d7
+ERR: 非法操作:Public
+
